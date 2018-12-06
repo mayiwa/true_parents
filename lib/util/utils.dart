@@ -1,0 +1,11 @@
+const String Website = "True History";
+const String SupportNo = "0802 831 2219";
+const String NoConnectionError = "Unable To Connect To $Website. Please try again. If problem persists, please contact support on $SupportNo";
+const String ConnectionSuccessful = "Connection Successful";
+const String GET_PROFILE_URL = "https://www.truehistory.com.ng/Guardians/Flutter/getProfile.php";
+const String PARENT_GUARDIAN_URL = "https://www.truehistory.com.ng/Guardians/Flutter/updateParentGuardian.php";
+const String INCORRECT_LOGIN_DETAILS = "Incorrect username or password. Please check both are correct and try again";
+const String INPUT_FIRST_NAME_ERROR_MSG = "Please put in first name";
+const String INPUT_LAST_NAME_ERROR_MSG = "Please put in last name";
+const String INPUT_PHONE_NO_ERROR_MSG = "Please put in phone no";
+const String INPUT_EMAIL_ERROR_MSG = "Please put in email address";

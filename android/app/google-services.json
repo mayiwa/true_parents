@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "61422971210",
+    "firebase_url": "https://school-attendance-2387f.firebaseio.com",
+    "project_id": "school-attendance-2387f",
+    "storage_bucket": "school-attendance-2387f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61422971210:android:b6040fbb599bb242",
+        "android_client_info": {
+          "package_name": "com.neurotec.tutorials.biometrics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61422971210-6vb4mc62ch17km3khl81rlpvgtk9samh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neurotec.tutorials.biometrics",
+            "certificate_hash": "68fdfd7798216ce54879d2de05ddc922e948b110"
+          }
+        },
+        {
+          "client_id": "61422971210-g7podi96kenf2mojj4k2mvdf55ql4pgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_-0HZt57ECxybjLFAOk5jRT2cY7Gx1I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61422971210-g7podi96kenf2mojj4k2mvdf55ql4pgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61422971210:android:1eb8a84a8ec66bc9",
+        "android_client_info": {
+          "package_name": "ng.com.truehistory.trueattendance.firestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61422971210-h6uejv7bgraa199g4hbadflf4unp8r7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ng.com.truehistory.trueattendance.firestoreapp",
+            "certificate_hash": "68fdfd7798216ce54879d2de05ddc922e948b110"
+          }
+        },
+        {
+          "client_id": "61422971210-g7podi96kenf2mojj4k2mvdf55ql4pgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_-0HZt57ECxybjLFAOk5jRT2cY7Gx1I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61422971210-g7podi96kenf2mojj4k2mvdf55ql4pgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61422971210:android:95896264ada3359b",
+        "android_client_info": {
+          "package_name": "ng.com.truehistory.trueattendance.trueattendanceteacherassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61422971210-g7podi96kenf2mojj4k2mvdf55ql4pgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_-0HZt57ECxybjLFAOk5jRT2cY7Gx1I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61422971210:android:c65fd5b79df4df1e",
+        "android_client_info": {
+          "package_name": "ng.com.truehistory.trueparents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61422971210-5qmlno71gnfl3s5mp5ugotqv1n5bl492.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ng.com.truehistory.trueparents",
+            "certificate_hash": "68fdfd7798216ce54879d2de05ddc922e948b110"
+          }
+        },
+        {
+          "client_id": "61422971210-g7podi96kenf2mojj4k2mvdf55ql4pgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_-0HZt57ECxybjLFAOk5jRT2cY7Gx1I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61422971210-g7podi96kenf2mojj4k2mvdf55ql4pgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
